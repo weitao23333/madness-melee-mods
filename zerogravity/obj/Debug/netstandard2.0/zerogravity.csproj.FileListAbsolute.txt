@@ -1,0 +1,11 @@
+/home/weitao/Documents/mm-mod/zerogravity/bin/Debug/netstandard2.0/zerogravity.deps.json
+/home/weitao/Documents/mm-mod/zerogravity/bin/Debug/netstandard2.0/zerogravity.dll
+/home/weitao/Documents/mm-mod/zerogravity/bin/Debug/netstandard2.0/zerogravity.pdb
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.csproj.AssemblyReference.cache
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/PluginInfo.cs
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.GeneratedMSBuildEditorConfig.editorconfig
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.AssemblyInfoInputs.cache
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.AssemblyInfo.cs
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.csproj.CoreCompileInputs.cache
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.dll
+/home/weitao/Documents/mm-mod/zerogravity/obj/Debug/netstandard2.0/zerogravity.pdb
